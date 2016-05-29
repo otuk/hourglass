@@ -1,6 +1,10 @@
-# build test hg
-# to build on a PC run "make PCRUN=-DPCRUN" 
+# The makefile builds the test_hg executable for various targets
 #
+#  I used it with gcc on Linux/MacOsX
+#
+# To  clean/build a PC simulation version run:  "make pcrun"
+# To profile run: "make prof"  (needs gprof on your system)
+# To do a memory check run:   "make memchk"  (needs  valgrind on your system)
 
 TARGET=test_hg
 
