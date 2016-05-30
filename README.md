@@ -29,8 +29,7 @@ online)
 Libraries:
 
 1. LedControl library available via Arduino IDE/Tools/Manage Library - add it.
-2. Arduino/MPU6050, Arduino/I2Cdev directories of then J.Rowberg I2C library https://github.com/jrowberg/i2cdevlib
-- copy them to "libraries" directory of you Arduino IDE
+2. Arduino/MPU6050, Arduino/I2Cdev directories of then J.Rowberg I2C library https://github.com/jrowberg/i2cdevlib, just copy them to "libraries" directory of you Arduino IDE
 
 
 Files in this repository:
