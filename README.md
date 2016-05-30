@@ -1,3 +1,4 @@
+THE HOURGLASS PROJECT 
 
 The hourglass project delivers an electronic
 Hourglass based on Arduino, GY-521, and LED Matrix
