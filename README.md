@@ -5,27 +5,36 @@ displays.  You can simply build and run this on your
 Linuz/MacOSX PC and see the pc simulation without the
 above mentioned hardware.
 
+The blog for the project with videos and pictures is here:
+http://blog.kodeten.com/hourglass-project-final-status-part-6/
+
+
+
 To build the hourglas object, you will need:
 
 Hardware:
+
 1.  Arduino compatible board (I used UNO others will
 work as well)
+
 2.  GY-521 berakout board (bought online)
+
 3.  And 3 matrix displays driven by MAX7219 (bought
 online)
+
 4.  A project housing, I used cardboard
+
 5.  The  usual jumper wires and 9V battery
 
 Libraries:
-1. LedControl library available via Arduino
-IDE/Tools/Manage Library - add it.
 
-2. Arduino/MPU6050, Arduino/I2Cdev directories of the
-J.Rowberg I2C library https://github.com/jrowberg/i2cdevlib
+1. LedControl library available via Arduino IDE/Tools/Manage Library - add it.
+2. Arduino/MPU6050, Arduino/I2Cdev directories of then J.Rowberg I2C library https://github.com/jrowberg/i2cdevlib
 - copy them to "libraries" directory of you Arduino IDE
 
 
 Files in this repository:
+
 Geom.hpp:
 Geom.cpp:  These are the main onject filles.
 Grav object is for gravity, it gets updated by sensor readings.
