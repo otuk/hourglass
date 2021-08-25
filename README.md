@@ -7,8 +7,7 @@ Linuz/MacOSX PC and see the pc simulation without the
 above mentioned hardware.
 
 The blog for the project with videos and pictures is here:
-http://blog.kodeten.com/hourglass-project-final-status-part-6/
-
+http://otuk.kodeten.com/post/hourglass-project-final-status-part-6/
 
 
 To build the hourglas object, you will need:
@@ -63,6 +62,6 @@ newlines written for each "frame" per your terminal row count.
 macros.h:  nothing important here.
 
 The blog for the project with videos and pictures is here:
-http://blog.kodeten.com/hourglass-project-final-status-part-6/
 
+http://otuk.kodeten.com/post/hourglass-project-final-status-part-6/
 
